@@ -1,0 +1,14 @@
+body{
+    background-image: url(./images/circle-blues.png);
+    color: goldenrod !important;
+    text-align: center;
+}
+#main{
+    background-color: lightslategray;
+    padding: 2em;
+    border-radius: 5px;
+}
+#img-div{
+    /* something */
+    padding: 2em;
+}
